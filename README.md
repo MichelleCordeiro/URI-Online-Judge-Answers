@@ -1,8 +1,12 @@
-# URI ONLINE JUDGE 
+# URI ONLINE JUDGE
 
-## ANSWERS ACCEPTED
+> URI Online Judge is a project developed to provide a plataform where you can learn, practice and sharpen your skills in algorithms.
 
-https://img.shields.io/static/v1?label=<URI>&message=<MESSAGE>&color=<RED>
-https://img.shields.io/static/v1?label=<C++>&message=<MESSAGE>&color=<GREEN>
 
-[Site URI ONLINE JUDGE](https://www.urionlinejudge.com.br)
+### ANSWERS ACCEPTED
+
+> Here you will find some answers accepted in URI Online Judge (C++).
+
+
+#
+*Site URI ONLINE JUDGE* [www.urionlinejudge.com.br](https://www.urionlinejudge.com.br)
